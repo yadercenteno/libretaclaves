@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Libreta personal</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="action_cambiarclave">Cambiar Clave</string>
+    <string name="action_exportar">Exportar BD (encriptada)</string>
+    <string name="action_exportar1">Exportar BD (SIN encriptar)</string>
+    <string name="action_importarBD">Importar la BD (encriptada)</string>
+    <string name="action_salir">Salir</string>
+    <string name="action_acerca_de">Acerca de</string>
+    <string name="editar_id">ID:</string>
+    <string name="agregar_categoria">Categoria:</string>
+    <string name="agregar_nombre">Descripcion:</string>
+    <string name="agregar_usuario">Usuario:</string>
+    <string name="agregar_clave">Clave:</string>
+    <string name="agregar_url">URL/web:</string>
+    <string name="agregar_pregunta_seguridad">Pregunta de seguridad:</string>
+    <string name="agregar_respuesta_seguridad">Respuesta de seguridad:</string>
+    <string name="agregar_notas">Notas adicionales:</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="agregar_activity">Agregar registro</string>
+    <string name="editar_activity">Ver/Editar registro</string>
+    <string name="programador">Yader V. Centeno Matus <a href="mailto:yader_centeno@yahoo.com" target="_top">yader_centeno@yahoo.com</a></string>
+</resources>
